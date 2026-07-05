@@ -72,7 +72,7 @@ jobs:
         git clone https://github.com/Openwrt-Passwall/openwrt-passwall-packages package/passwall-packages
         rm -rf feeds/luci/applications/luci-app-passwall        
         rm -rf feeds/luci/applications/luci-app-passwall2
-        git clone https://github.com/kenzok8/openwrt-daede package/daede
+        git clone https://github.com/kenzok8/openwrt-daede package/openwrt-daede
     #    git clone "your_github_link" package/"your_folder_name"  
     
     - name: 加载配置文件

@@ -71,6 +71,7 @@ jobs:
         git clone https://github.com/Openwrt-Passwall/openwrt-passwall-packages package/passwall-packages
         rm -rf feeds/luci/applications/luci-app-passwall        
         rm -rf feeds/luci/applications/luci-app-passwall2
+        rm -rf feeds/luci/applications/luci-app-openclash
         git clone https://github.com/kenzok8/openwrt-daede package/daede
     #    git clone "your_github_link" package/"your_folder_name"  
     

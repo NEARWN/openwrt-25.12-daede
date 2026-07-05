@@ -10,6 +10,6 @@ Lean's OpenWrt source
 
 https://github.com/coolsnowwolf/lede
 
-更换PASSWALL插件源码
+添加openwrt-daede插件源码
 
-https://github.com/Openwrt-Passwall/openwrt-passwall
+https://github.com/kenzok8/openwrt-daede
